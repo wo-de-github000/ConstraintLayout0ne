@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstraintLayout0ne</string>
+    <string name="Version">1.0.0</string>
+    <string name="login_button">登录</string>
+    <string name="login_account">请输入账号</string>
+    <string name="password">请输入密码</string>
+    <string name="login_icon">图标</string>
+</resources>
